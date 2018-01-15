@@ -17,7 +17,7 @@ console.log(arrayFn([2]))
 // since there is an argument inside, the [] inside the ()  is necessary
 
 
-const functionfn = (a) => a()
+const functgit remote add origin https://github.com/lequynhhuong/methods.gitionfn = (a) => a()
 
 console.log(
   functionfn(() => 3)
